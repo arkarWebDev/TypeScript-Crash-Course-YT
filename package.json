@@ -1,0 +1,12 @@
+{
+  "name": "ts",
+  "version": "1.0.0",
+  "description": "All the source codes for the TypeScript Fundaementals Crash Course on Code Hub MM YouTube channel.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "codehub",
+  "license": "ISC",
+  "type": "module"
+}
