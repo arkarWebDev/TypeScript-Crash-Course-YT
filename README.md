@@ -1,6 +1,6 @@
 # TypeScript Fundaementals Crash Course
 
-All the source codes for the TypeScript Fundaementals Crash Course on Code Hub MM YouTube channel.
+All the source codes for the TypeScript Fundamentals Crash Course on Code Hub MM YouTube channel.
 
 # How to use the files
 
